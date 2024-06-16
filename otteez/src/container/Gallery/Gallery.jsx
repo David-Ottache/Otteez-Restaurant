@@ -28,7 +28,7 @@ const Gallery = () => {
       <div className="app__gallery-content">
         <SubHeading title = "Instagram"/>
         <h1 className="headtext__cormorant">Photo Gallery</h1>
-        <p className="p__opensans" style={{color:'#AAA',marginTop:'2rem',marginBottom:'2rem'}}>Treat your senses to a culinary adventure, where every dish is a symphony of flavors and visual delights, will this work?</p>
+        <p className="p__opensans" style={{color:'#AAA',marginTop:'2rem',marginBottom:'2rem'}}>Treat your senses to a culinary adventure, where every dish is a symphony of flavors and visual delights.</p>
         <button type="button" className='custom__button'>View More</button>
       </div>
       <div className="app__gallery-images">
